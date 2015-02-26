@@ -1,0 +1,12 @@
+A Python script which splits up submissions into separate folders depending on what the student used for coding the problem set.
+
+In order to run the python script:
+Download the entire submissions dump from T-Square (selecting “all”).
+Rename the parent folder from “PS0…” to “submissions” and put it into a folder.
+Copy this script file into the same folder.
+Run in Linux using ‘python distributer.py’
+It’ll create the following separate folders and move the student submissions into the appropriate one:
+Matlab
+Python
+Octave
+Unclassified
